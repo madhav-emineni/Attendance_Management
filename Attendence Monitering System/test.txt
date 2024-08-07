@@ -1,0 +1,9 @@
+attendance monitoring
+class named attendance with methods mark present, mark absent, Calc_percentage, make a list of detained students
+show them in xl sheet
+take the user input for date
+for each id ask to enter P or A
+automatically update the xl sheet
+use openpyxl for automation of xl sheet
+update the detained list every time the xl sheet is updated
+
